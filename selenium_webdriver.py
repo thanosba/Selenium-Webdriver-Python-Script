@@ -1,3 +1,6 @@
+# To install the Python client library:
+# pip install -U selenium
+
 import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
